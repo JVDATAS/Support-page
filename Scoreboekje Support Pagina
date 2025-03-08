@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support Pagina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+            font-size: 24px;
+        }
+        main {
+            padding: 20px;
+            background: #fff;
+            margin-top: 10px;
+        }
+        main h2 {
+            color: #333;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Support Pagina</h1>
+    </header>
+    <div class="container">
+        <main>
+            <h2>Contact opnemen</h2>
+            <p>Heb je hulp nodig of vragen? Neem dan contact op:</p>
+            <p>Email: <a href="mailto:j.jvdatas@gmail.com">j.jvdatas@gmail.com</a></p>
+            <h2>Privacy Policy & Terms</h2>
+            <p>Wij hechten veel waarde aan uw privacy en zijn toegewijd aan het beschermen van uw persoonlijke gegevens. Dit Privacybeleid legt uit hoe wij omgaan met uw gegevens wanneer u onze app gebruikt.</p>
+            <h3>1. Informatie die we verzamelen</h3>
+            <ul>
+                <li>We vereisen geen gebruikersaccounts en verzamelen geen persoonlijke informatie zoals namen of e-mailadressen.</li>
+                <li>We maken echter gebruik van derde partijen (Apple App Store / Google Play) voor het verwerken van in-app aankopen. Alle persoonlijke of betalingsinformatie die tijdens transacties wordt verstrekt...</li>
+            </ul>
+            <h3>2. Derde partij diensten</h3>
+            <ul>
+                <li>In-app aankopen worden verwerkt door de Apple App Store (voor iOS) of Google Play (voor Android). Deze diensten verwerken uw betalingsgegevens veilig, en hun respectieve privacybeleid is van toepassing...</li>
+                <li>U kunt het privacybeleid van Apple hier lezen: <a href="https://www.apple.com/legal/privacy/">Apple Privacybeleid</a></li>
+                <li>U kunt het privacybeleid van Google hier lezen: <a href="https://policies.google.com/privacy">Google Privacybeleid</a></li>
+            </ul>
+            <h3>3. Gegevensbeveiliging</h3>
+            <ul>
+                <li>We slaan geen persoonlijke informatie op en verwerken deze niet direct. Wanneer u een aankoop doet, worden uw gegevens echter veilig verwerkt door Apple of Google via hun betalingssysteem.</li>
+            </ul>
+            <h3>4. Cookies en tracking</h3>
+            <ul>
+                <li>We gebruiken geen cookies of trackingtechnologieën die persoonlijke informatie verzamelen.</li>
+            </ul>
+            <h3>5. Rechten van gebruikers</h3>
+            <ul>
+                <li>Aangezien we geen persoonlijke informatie verzamelen, worden er geen gegevens opgeslagen die u kunt raadplegen of wijzigen. Als u echter vragen heeft over uw gegevens, kunt u contact met ons opnemen...</li>
+            </ul>
+            <h3>6. Wijzigingen in dit Privacybeleid</h3>
+            <ul>
+                <li>Dit Privacybeleid kan van tijd tot tijd worden bijgewerkt. Alle wijzigingen worden hier gepost met de bijgewerkte datum.</li>
+            </ul>
+            <h3>7. Neem contact met ons op</h3>
+            <ul>
+                <li>Als u vragen heeft over dit Privacybeleid of onze werkwijze, kunt u contact met ons opnemen via <a href="mailto:j.jvdatas@gmail.com">j.jvdatas@gmail.com</a>.</li>
+            </ul>
+        </main>
+    </div>
+    <footer>
+        <p>&copy; 2025 JVDATAS</p>
+    </footer>
+</body>
+</html>
