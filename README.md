@@ -1,5 +1,3 @@
-# Support pagina
-
 ## Contact opnemen
 Heb je hulp nodig of vragen? Neem dan contact op:
 Email: j.jvdatas@gmail.com 
