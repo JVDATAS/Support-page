@@ -11,8 +11,6 @@ Wij hechten veel waarde aan uw privacy en zijn toegewijd aan het beschermen van 
 
 2. Derde partij diensten
 	•	In-app aankopen worden verwerkt door de Apple App Store (voor iOS) of Google Play (voor Android). Deze diensten verwerken uw betalingsgegevens veilig, en hun respectieve privacybeleid is van toepassing op alle gegevens die u verstrekt tijdens transacties.
-	•	U kunt het privacybeleid van Apple hier lezen: Apple Privacybeleid
-	•	U kunt het privacybeleid van Google hier lezen: Google Privacybeleid
 
 3. Gegevensbeveiliging
 	•	We slaan geen persoonlijke informatie op en verwerken deze niet direct. Wanneer u een aankoop doet, worden uw gegevens echter veilig verwerkt door Apple of Google via hun betalingssysteem.
